@@ -1,4 +1,4 @@
-Time EST,Hourly alternating current system output(Wac),Hourly plane of array irradiance(W/m2),Hourly beam normal irradiance(W/m2),Hourly direct current array output(Wdc),Hourly diffuse irradiance(W/m2),Hourly ambient temperature(C),Hourly module temperature(C),Hourly windspeed(m/s),Hourly albedo values
+Time EST,AC Output (W),POA Irradiance (W/m²),Beam Normal Irradiance (W/m²),DC Output (W),Diffuse Irradiance (W/m²),Ambient Temp (°C),Module Temp (°C),Windspeed (m/s),Albedo
 2025-01-01 00:00:00,0.0,0.0,0.0,0.0,0.0,-10.2,-10.2,2.6,0.13
 2025-01-01 01:00:00,0.0,0.0,0.0,0.0,0.0,-10.4,-10.4,2.7,0.13
 2025-01-01 02:00:00,0.0,0.0,0.0,0.0,0.0,-10.5,-10.5,2.9,0.13
